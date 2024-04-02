@@ -1,0 +1,12 @@
+body {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.linea-s{
+  border-top: 2px solid black; /* Establece una línea negra de 2 píxeles de grosor */
+  margin-top: 20px; /* Ajusta el margen superior según sea necesario */
+
+}
